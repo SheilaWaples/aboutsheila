@@ -26,20 +26,20 @@ body{
 
 @media all and (max-width: 480px){
 
-	body {/*background-color: blue;*/
+	body {background-color: blue;
 	}
 }
 
 @media all and (min-width: 481px) and (max-width:767px)
 {
 
-	body {/*background-color: yellow; */
+	body {background-color: yellow; 
 	}
 }
 
 @media all and (min-width: 768px) and (max-width:992px)
 {
 
-	body {/*background-color: pink;*/
+	body {background-color: pink;
 	}
 }
